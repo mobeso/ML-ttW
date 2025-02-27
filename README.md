@@ -1,6 +1,6 @@
 # ML-ttW
 Machine Learning for ttW analysis
 
-## Funcionamiento básico
+## Basic running 
 
-``` python ttW_2lss_training.py ``` 
+``` python train_rf.py ``` 
